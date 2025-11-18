@@ -6,5 +6,6 @@ public class Main1 {
         int b = 10;
 
         System.out.println("abcdefdg");
+        System.out.println("Большие изменения");
     }
 }
